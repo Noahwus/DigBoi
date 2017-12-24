@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c53383b76c95f214d80ec3477584085f, type: 3}
+  m_Name: PickAxe
+  m_EditorClassIdentifier: 
+  itemNumber: 1
+  title: PickAxe
+  icon: {fileID: 21300000, guid: 387fee0d32a8ca340a08551b9dd05c96, type: 3}
+  fullIcon: {fileID: 21300000, guid: 387fee0d32a8ca340a08551b9dd05c96, type: 3}
+  flavorText: If you want to get anywhere here... you kind of need this
+  cost: 25
+  isInInventory: 1
+  isBought: 1
+  isWearing: 0
+  wearable: 0
